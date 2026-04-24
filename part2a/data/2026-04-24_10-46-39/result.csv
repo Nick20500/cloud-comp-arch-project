@@ -1,0 +1,8 @@
+workload,none,cpu,l1d,l1i,l2,llc,membw
+parsec-barnes,1.00,1.54,1.64,2.17,1.70,2.66,1.67
+parsec-blackscholes,1.00,1.28,1.36,1.59,1.35,1.43,1.31
+parsec-canneal,1.00,1.76,1.26,1.42,1.30,2.06,1.32
+parsec-freqmine,1.00,2.00,1.63,2.02,1.32,1.83,1.52
+parsec-radix,1.00,1.06,1.12,1.09,1.09,1.60,1.08
+parsec-streamcluster,1.00,1.41,1.35,1.59,1.33,2.08,1.33
+parsec-vips,1.00,1.55,1.55,1.67,1.53,1.89,1.59
