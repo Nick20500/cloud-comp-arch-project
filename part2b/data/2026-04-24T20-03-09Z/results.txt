@@ -1,0 +1,19 @@
+Benchmark thread scaling analysis
+==================================
+
+Timestamp folder: 2026-04-24T20-03-09Z
+  parsec-barnes: linear scaling, significant speedup: yes (max 5.08x at 8 threads, metric: runtime-like (lower is better))
+    Speedups vs 1 threads: 1t=1.00x, 2t=1.99x, 4t=3.92x, 8t=5.08x
+  parsec-blackscholes: sub-linear scaling, significant speedup: no (max 0.35x at 8 threads, metric: runtime-like (lower is better))
+    Speedups vs 1 threads: 1t=1.00x, 2t=0.94x, 4t=0.83x, 8t=0.35x
+  parsec-canneal: sub-linear scaling, significant speedup: no (max 1.00x at 8 threads, metric: runtime-like (lower is better))
+    Speedups vs 1 threads: 1t=1.00x, 2t=1.00x, 4t=1.00x, 8t=1.00x
+  parsec-freqmine: sub-linear scaling, significant speedup: no (max 1.00x at 8 threads, metric: runtime-like (lower is better))
+    Speedups vs 1 threads: 1t=1.00x, 2t=1.00x, 4t=1.00x, 8t=1.00x
+  parsec-radix: sub-linear scaling, significant speedup: no (max 1.00x at 8 threads, metric: runtime-like (lower is better))
+    Speedups vs 1 threads: 1t=1.00x, 2t=1.00x, 4t=1.00x, 8t=1.00x
+  parsec-streamcluster: sub-linear scaling, significant speedup: yes (max 2.06x at 8 threads, metric: runtime-like (lower is better))
+    Speedups vs 1 threads: 1t=1.00x, 2t=1.81x, 4t=3.92x, 8t=2.06x
+  parsec-vips: sub-linear scaling, significant speedup: yes (max 1.97x at 8 threads, metric: runtime-like (lower is better))
+    Speedups vs 1 threads: 1t=1.00x, 2t=3.12x, 4t=2.16x, 8t=1.97x
+  Skipped files: results.txt(invalid filename)
