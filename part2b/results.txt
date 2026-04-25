@@ -1,0 +1,6 @@
+Benchmark thread scaling analysis
+==================================
+
+Timestamp folder: 2026-04-24T20-03-09Z
+  No valid benchmark files found.
+  Skipped files: parsec-barnes_1_threads.txt, parsec-barnes_2_threads.txt, parsec-barnes_4_threads.txt, parsec-barnes_8_threads.txt, parsec-blackscholes_1_threads.txt, parsec-blackscholes_2_threads.txt, parsec-blackscholes_4_threads.txt, parsec-blackscholes_8_threads.txt, parsec-canneal_1_threads.txt, parsec-canneal_2_threads.txt, parsec-canneal_4_threads.txt, parsec-canneal_8_threads.txt, parsec-freqmine_1_threads.txt, parsec-freqmine_2_threads.txt, parsec-freqmine_4_threads.txt, parsec-freqmine_8_threads.txt, parsec-radix_1_threads.txt, parsec-radix_2_threads.txt, parsec-radix_4_threads.txt, parsec-radix_8_threads.txt, parsec-streamcluster_1_threads.txt, parsec-streamcluster_2_threads.txt, parsec-streamcluster_4_threads.txt, parsec-streamcluster_8_threads.txt, parsec-vips_1_threads.txt, parsec-vips_2_threads.txt, parsec-vips_4_threads.txt, parsec-vips_8_threads.txt
